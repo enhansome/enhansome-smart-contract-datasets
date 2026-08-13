@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeFiHackLabs",
+          "description": "Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-11T03:01:13Z",
+            "owner": "SunWeb3Sec",
+            "repo": "DeFiHackLabs",
+            "stars": 6734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3Bugs",
+          "description": "This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-06-19T06:26:28Z",
+            "owner": "ZhangZhuoSJTU",
+            "repo": "Web3Bugs",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smart-contract-vulndb",
+          "description": "An open dataset of publicly available smart contract issues aggregated from various audit reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-21T13:47:39Z",
+            "owner": "tintinweb",
+            "repo": "smart-contract-vulndb",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JiuZhou",
+          "description": "JiuZhou is a data set of Ethereum bug smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2020-11-11T10:05:34Z",
+            "owner": "xf97",
+            "repo": "JiuZhou",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart-Contract-Dataset",
+          "description": "Datasets for evaluating smart contract security analysis tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-21T09:51:08Z",
+            "owner": "Messi-Q",
+            "repo": "Smart-Contract-Dataset",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smartbugs-curated",
+          "description": "SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-06-16T17:44:41Z",
+            "owner": "smartbugs",
+            "repo": "smartbugs-curated",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAppSCAN",
+          "description": "Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-03-25T06:26:36Z",
+            "owner": "InPlusLab",
+            "repo": "DAppSCAN",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolidiFI-benchmark",
+          "description": "Repository of benchmarks to evaluate Solidity Smart contract analysis tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-16T08:16:21Z",
+            "owner": "DependableSystemsLab",
+            "repo": "SolidiFI-benchmark",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VeriSmart-benchmarks",
+          "description": "VeriSmart is a safety analyzer for Ethereum smart contracts written in Solidity. This repository contains dataset that we used for experiments in our paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2022-08-17T09:45:42Z",
+            "owner": "kupl",
+            "repo": "VeriSmart-benchmarks",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScrawlD",
+          "description": "A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-06T07:33:53Z",
+            "owner": "sujeetc",
+            "repo": "ScrawlD",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReentrancyStudy-Data",
+          "description": "ReentrancyStudy-Data is a large-scale dataset of reentrancy vulnerability in smart contracts, which is built from 230,548 open-source smart contracts from Etherscan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-01-14T07:21:47Z",
+            "owner": "InPlusLab",
+            "repo": "ReentrancyStudy-Data",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HuangGai",
+          "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2021-12-15T12:27:25Z",
+            "owner": "xf97",
+            "repo": "HuangGai",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart-Contract-Benchmark-Suites",
+          "description": "Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2021-08-23T08:16:25Z",
+            "owner": "renardbebe",
+            "repo": "Smart-Contract-Benchmark-Suites",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartScan-Dataset",
+          "description": "This repositoray presents datasets and empirical analysis results that use code clone detection techniques for identifying vulnerabilities and their variations in smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2022-03-01T21:59:09Z",
+            "owner": "NoamaSamreen93",
+            "repo": "SmartScan-Dataset",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFT2020/dataset",
+          "description": "(UNVERIFIED) This repository contains a smart contract vulnerability dataset that is used in machine learning experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-12T08:49:14Z",
+            "owner": "AFT2020",
+            "repo": "dataset",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smart-contract-vulnerability-dataset",
+          "description": "Tagged dataset for Time Manipulation Vulnerability in Ethereum Smart Contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-04-17T01:57:15Z",
+            "owner": "imranpollob",
+            "repo": "smart-contract-vulnerability-dataset",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "With Vulnerabilities or Bugs"
+    },
+    {
+      "description": "Who else should we be following!?",
+      "items": [],
+      "title": "Follow"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these contributors!",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:18.593Z",
+    "original_repository": "acorn421/awesome-smart-contract-datasets",
+    "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
+    "enhanced_repository": "enhansome/enhansome-smart-contract-datasets",
+    "enhanced_repository_description": null,
+    "title": "Awesome Smart Contract Datasets with stars"
+  }
+}
