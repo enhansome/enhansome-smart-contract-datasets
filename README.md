@@ -48,7 +48,7 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,743 | 🐛 2 | 🌐 Solidity | 📅 2026-08-11 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,745 | 🐛 3 | 🌐 Solidity | 📅 2026-08-11 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,817 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -58,7 +58,7 @@ Source codes, vulnerabilities, and more.
 
 * [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 202 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
 
-* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 158 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
+* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 159 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
 * [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 83 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
