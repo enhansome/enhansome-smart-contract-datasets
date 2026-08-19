@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-11T03:01:13Z",
+            "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6745
+            "stars": 6749
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-03-21T13:47:39Z",
             "owner": "tintinweb",
             "repo": "smart-contract-vulndb",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-06-16T17:44:41Z",
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:39:46.685Z",
+    "last_updated": "2026-08-19T02:43:08.762Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
     "enhanced_repository": "enhansome/enhansome-smart-contract-datasets",
