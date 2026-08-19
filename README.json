@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501990676,
             "language": "Solidity",
             "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6748
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600295047,
             "language": "Solidity",
             "last_commit": "2025-06-19T06:26:28Z",
             "owner": "ZhangZhuoSJTU",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 657163312,
             "language": "JavaScript",
             "last_commit": "2024-03-21T13:47:39Z",
             "owner": "tintinweb",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221221215,
             "language": "Solidity",
             "last_commit": "2020-11-11T10:05:34Z",
             "owner": "xf97",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360530103,
             "language": null,
             "last_commit": "2023-08-21T09:51:08Z",
             "owner": "Messi-Q",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569000746,
             "language": "Solidity",
             "last_commit": "2024-06-16T17:44:41Z",
             "owner": "smartbugs",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630566877,
             "language": "Solidity",
             "last_commit": "2025-03-25T06:26:36Z",
             "owner": "InPlusLab",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264318102,
             "language": "Python",
             "last_commit": "2022-06-16T08:16:21Z",
             "owner": "DependableSystemsLab",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210798529,
             "language": "Solidity",
             "last_commit": "2022-08-17T09:45:42Z",
             "owner": "kupl",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466198776,
             "language": "Python",
             "last_commit": "2022-07-06T07:33:53Z",
             "owner": "sujeetc",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594364120,
             "language": "Solidity",
             "last_commit": "2025-01-14T07:21:47Z",
             "owner": "InPlusLab",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293466625,
             "language": "Solidity",
             "last_commit": "2021-12-15T12:27:25Z",
             "owner": "xf97",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287517600,
             "language": "Solidity",
             "last_commit": "2021-08-23T08:16:25Z",
             "owner": "renardbebe",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416581097,
             "language": "Solidity",
             "last_commit": "2022-03-01T21:59:09Z",
             "owner": "NoamaSamreen93",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271662511,
             "language": null,
             "last_commit": "2020-06-12T08:49:14Z",
             "owner": "AFT2020",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879399672,
             "language": "Solidity",
             "last_commit": "2025-04-17T01:57:15Z",
             "owner": "imranpollob",
@@ -229,26 +245,12 @@
         }
       ],
       "title": "With Vulnerabilities or Bugs"
-    },
-    {
-      "description": "Who else should we be following!?",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:43:08.762Z",
+    "last_updated": "2026-08-19T12:53:36.440Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
+    "original_repository_id": 661002428,
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
     "enhanced_repository": "enhansome/enhansome-smart-contract-datasets",
     "enhanced_repository_description": null,

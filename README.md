@@ -48,7 +48,7 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,749 | 🐛 2 | 🌐 Solidity | 📅 2026-08-18 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,748 | 🐛 2 | 🌐 Solidity | 📅 2026-08-18 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,817 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
