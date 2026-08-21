@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6747
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-06-19T06:26:28Z",
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1817
+            "stars": 1820
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:41:24.589Z",
+    "last_updated": "2026-08-21T02:48:04.884Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
     "original_repository_id": 661002428,
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
