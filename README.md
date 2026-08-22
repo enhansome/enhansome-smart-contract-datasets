@@ -42,15 +42,15 @@ Source codes, vulnerabilities, and more.
 
 * [smart-contract-fiesta](https://huggingface.co/datasets/Zellic/smart-contract-fiesta) - Zellic is making publicly available a dataset of known Ethereum mainnet smart contract source code.
 
-* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 209 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
+* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
 
 * [DISL](https://huggingface.co/datasets/ASSERT-KTH/DISL) - 514506 unique Solidity files that have been deployed to Ethereum mainnet.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,747 | 🐛 3 | 🌐 Solidity | 📅 2026-08-18 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,749 | 🐛 3 | 🌐 Solidity | 📅 2026-08-21 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
-* [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,820 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
+* [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,819 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
 * [smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb) ⭐ 242 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-21 - An open dataset of publicly available smart contract issues aggregated from various audit reports.
 
@@ -58,7 +58,7 @@ Source codes, vulnerabilities, and more.
 
 * [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 202 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
 
-* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 160 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
+* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 161 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
 * [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 83 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

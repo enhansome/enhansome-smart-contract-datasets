@@ -12,10 +12,10 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-18T05:31:42Z",
+            "last_commit": "2026-08-21T13:00:14Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6747
+            "stars": 6749
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-06-19T06:26:28Z",
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1820
+            "stars": 1819
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-06-16T17:44:41Z",
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:48:04.884Z",
+    "last_updated": "2026-08-22T02:38:37.928Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
     "original_repository_id": 661002428,
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
