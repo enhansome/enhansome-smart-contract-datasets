@@ -12,10 +12,10 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-21T13:00:14Z",
+            "last_commit": "2026-08-22T03:01:02Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6751
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:38:37.928Z",
+    "last_updated": "2026-08-23T02:48:13.178Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
     "original_repository_id": 661002428,
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
