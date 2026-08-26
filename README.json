@@ -105,7 +105,7 @@
             "last_commit": "2025-03-25T06:26:36Z",
             "owner": "InPlusLab",
             "repo": "DAppSCAN",
-            "stars": 83
+            "stars": 84
           }
         },
         {
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:47.833Z",
+    "last_updated": "2026-08-26T02:50:43.244Z",
     "original_repository": "acorn421/awesome-smart-contract-datasets",
     "original_repository_id": 661002428,
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
