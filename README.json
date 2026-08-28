@@ -12,11 +12,12 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-27T03:01:04Z",
+            "last_commit": "2026-08-28T03:03:12Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6759
-          }
+            "stars": 6760
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
             "stars": 1819
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tintinweb",
             "repo": "smart-contract-vulndb",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "xf97",
             "repo": "JiuZhou",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Messi-Q",
             "repo": "Smart-Contract-Dataset",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "InPlusLab",
             "repo": "DAppSCAN",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "DependableSystemsLab",
             "repo": "SolidiFI-benchmark",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "kupl",
             "repo": "VeriSmart-benchmarks",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "sujeetc",
             "repo": "ScrawlD",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "InPlusLab",
             "repo": "ReentrancyStudy-Data",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "xf97",
             "repo": "HuangGai",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "renardbebe",
             "repo": "Smart-Contract-Benchmark-Suites",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "NoamaSamreen93",
             "repo": "SmartScan-Dataset",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "AFT2020",
             "repo": "dataset",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         },
         {
           "node_type": "item",
@@ -241,14 +256,15 @@
             "owner": "imranpollob",
             "repo": "smart-contract-vulnerability-dataset",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
         }
       ],
       "title": "With Vulnerabilities or Bugs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:16.475Z",
+    "last_updated": "2026-08-28T13:19:54.210Z",
     "original_repository_info": {
       "archived": false,
       "id": 661002428,
