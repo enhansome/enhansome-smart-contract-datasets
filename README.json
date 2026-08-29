@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduce DeFi hacked incidents using Foundry.",
+            "homepage": null,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-28T03:03:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:00:58Z",
+            "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6760
+            "stars": 6760,
+            "topics": [
+              "defi",
+              "ethereum",
+              "foundry",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demystifying Exploitable Bugs in Smart Contracts",
+            "homepage": null,
             "id": 600295047,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2025-06-19T06:26:28Z",
+            "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1819
+            "stars": 1819,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍋 An open dataset containing smart contract audit issues from various sources.",
+            "homepage": "https://tintinweb.github.io/smart-contract-vulndb/",
             "id": 657163312,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-21T13:47:39Z",
+            "open_issues": 2,
             "owner": "tintinweb",
             "repo": "smart-contract-vulndb",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "smart-contract-security",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -58,12 +82,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JiuZhou is a data set  of Ethereum bug smart contracts (ICSME 2020). ",
+            "homepage": null,
             "id": 221221215,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2020-11-11T10:05:34Z",
+            "open_issues": 1,
             "owner": "xf97",
             "repo": "JiuZhou",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "bug",
+              "smart-contracts",
+              "solidity-contracts"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -74,12 +107,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets for evaluating smart contract security analysis tools ( continuously updating... )",
+            "homepage": null,
             "id": 360530103,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-21T09:51:08Z",
+            "open_issues": 11,
             "owner": "Messi-Q",
             "repo": "Smart-Contract-Dataset",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "dataset",
+              "ethereum",
+              "smart-contracts",
+              "vunerability"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -90,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SB Curated is a curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. The dataset was created to evaluate the accuracy of automated analysis tools.",
+            "homepage": null,
             "id": 569000746,
             "language": "Solidity",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-16T17:44:41Z",
+            "open_issues": 6,
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "benchmark",
+              "blockchain",
+              "dataset",
+              "ethereum",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -106,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.",
+            "homepage": null,
             "id": 630566877,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-03-25T06:26:36Z",
+            "open_issues": 2,
             "owner": "InPlusLab",
             "repo": "DAppSCAN",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -122,12 +181,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of benchmarks to evaluate Solidity Smart contract analysis tools",
+            "homepage": "http://blogs.ubc.ca/karthik/2020/05/22/how-effective-are-smart-contract-static-analysis-tools-evaluating-smart-contract-static-analysis-tools-using-bug-injection/",
             "id": 264318102,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-16T08:16:21Z",
+            "open_issues": 4,
             "owner": "DependableSystemsLab",
             "repo": "SolidiFI-benchmark",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "benchmarks",
+              "contracts",
+              "fault",
+              "injection",
+              "smart",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -138,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 210798529,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2022-08-17T09:45:42Z",
+            "open_issues": 1,
             "owner": "kupl",
             "repo": "VeriSmart-benchmarks",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -154,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 466198776,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-06T07:33:53Z",
+            "open_issues": 1,
             "owner": "sujeetc",
             "repo": "ScrawlD",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -170,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 594364120,
             "language": "Solidity",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-14T07:21:47Z",
+            "open_issues": 0,
             "owner": "InPlusLab",
             "repo": "ReentrancyStudy-Data",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -186,12 +272,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract. DOI: 10.5281/zenodo.4680168",
+            "homepage": null,
             "id": 293466625,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2021-12-15T12:27:25Z",
+            "open_issues": 0,
             "owner": "xf97",
             "repo": "HuangGai",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "bug-injection",
+              "ethereum",
+              "solidity-language"
+            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -202,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unified smart contract standard data set.",
+            "homepage": null,
             "id": 287517600,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2021-08-23T08:16:25Z",
+            "open_issues": 1,
             "owner": "renardbebe",
             "repo": "Smart-Contract-Benchmark-Suites",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -218,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains 50,000 smart contracts extracted from the Ethereum network.",
+            "homepage": null,
             "id": 416581097,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2022-03-01T21:59:09Z",
+            "open_issues": 0,
             "owner": "NoamaSamreen93",
             "repo": "SmartScan-Dataset",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -234,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart contract vulnerability dataset",
+            "homepage": null,
             "id": 271662511,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-12T08:49:14Z",
+            "open_issues": 0,
             "owner": "AFT2020",
             "repo": "dataset",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -250,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 879399672,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-04-17T01:57:15Z",
+            "open_issues": 0,
             "owner": "imranpollob",
             "repo": "smart-contract-vulnerability-dataset",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         }
@@ -264,15 +379,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:19:54.210Z",
+    "last_updated": "2026-08-29T05:02:06.500Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome smart contract datasets",
+      "homepage": null,
       "id": 661002428,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-02T20:59:34Z",
+      "open_issues": 0,
       "owner": "acorn421",
       "repo": "awesome-smart-contract-datasets",
-      "stars": 69
+      "stars": 69,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dataset",
+        "reentrancy",
+        "smart-contract",
+        "solidity",
+        "solidity-contracts",
+        "vulnerability"
+      ]
     },
     "original_repository_sha": "7caa38d876bd05fc61b0ee88c34e4907000ce593",
     "enhanced_repository": "enhansome/enhansome-smart-contract-datasets",
