@@ -15,11 +15,11 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T03:01:38Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T03:05:43Z",
+            "open_issues": 3,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6767,
+            "stars": 6769,
             "topics": [
               "defi",
               "ethereum",
@@ -260,7 +260,7 @@
             "open_issues": 0,
             "owner": "InPlusLab",
             "repo": "ReentrancyStudy-Data",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:16:01.685Z",
+    "last_updated": "2026-09-06T06:27:39.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",

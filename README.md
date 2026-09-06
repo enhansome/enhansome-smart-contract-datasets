@@ -48,7 +48,7 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,767 | 🐛 4 | 🌐 Solidity | 📅 2026-09-05 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,769 | 🐛 3 | 🌐 Solidity | 📅 2026-09-06 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,819 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -68,7 +68,7 @@ Source codes, vulnerabilities, and more.
 
 * [ScrawlD](https://github.com/sujeetc/ScrawlD) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2022-07-06 - A Dataset of Real World Ethereum Smart Contracts Labelled with Vulnerabilities.
 
-* [ReentrancyStudy-Data](https://github.com/InPlusLab/ReentrancyStudy-Data) ⭐ 51 | 🐛 0 | 🌐 Solidity | 📅 2025-01-14 - ReentrancyStudy-Data is a large-scale dataset of reentrancy vulnerability in smart contracts, which is built from 230,548 open-source smart contracts from Etherscan.
+* [ReentrancyStudy-Data](https://github.com/InPlusLab/ReentrancyStudy-Data) ⭐ 50 | 🐛 0 | 🌐 Solidity | 📅 2025-01-14 - ReentrancyStudy-Data is a large-scale dataset of reentrancy vulnerability in smart contracts, which is built from 230,548 open-source smart contracts from Etherscan.
 
 * [HuangGai](https://github.com/xf97/HuangGai) ⭐ 46 | 🐛 0 | 🌐 Solidity | 📅 2021-12-15 - HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
