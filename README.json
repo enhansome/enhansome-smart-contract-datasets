@@ -15,11 +15,11 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T03:15:12Z",
+            "last_commit": "2026-09-11T03:03:26Z",
             "open_issues": 3,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6774,
+            "stars": 6779,
             "topics": [
               "defi",
               "ethereum",
@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1819,
+            "stars": 1821,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:36:05.400Z",
+    "last_updated": "2026-09-11T06:35:16.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
@@ -391,7 +391,7 @@
       "open_issues": 0,
       "owner": "acorn421",
       "repo": "awesome-smart-contract-datasets",
-      "stars": 70,
+      "stars": 71,
       "topics": [
         "awesome",
         "awesome-list",
