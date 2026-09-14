@@ -15,11 +15,11 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T15:37:13Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-14T03:02:52Z",
+            "open_issues": 5,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6785,
+            "stars": 6787,
             "topics": [
               "defi",
               "ethereum",
@@ -116,7 +116,7 @@
             "open_issues": 11,
             "owner": "Messi-Q",
             "repo": "Smart-Contract-Dataset",
-            "stars": 203,
+            "stars": 202,
             "topics": [
               "dataset",
               "ethereum",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:42:59.877Z",
+    "last_updated": "2026-09-14T06:56:40.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
