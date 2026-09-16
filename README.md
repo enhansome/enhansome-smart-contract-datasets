@@ -48,7 +48,7 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,787 | 🐛 4 | 🌐 Solidity | 📅 2026-09-15 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,790 | 🐛 5 | 🌐 Solidity | 📅 2026-09-16 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,822 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -108,8 +108,8 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/acorn421/awesome-smart-contract-datasets/graphs/contributors) ⭐ 71 | 🐛 0 | 📅 2026-08-02!
+[Thanks goes to these contributors](https://github.com/acorn421/awesome-smart-contract-datasets/graphs/contributors) ⭐ 71 | 🐛 1 | 📅 2026-08-02!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
