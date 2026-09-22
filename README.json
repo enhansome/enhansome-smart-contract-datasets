@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1823,
+            "stars": 1822,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:00:42.295Z",
+    "last_updated": "2026-09-22T06:43:48.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
