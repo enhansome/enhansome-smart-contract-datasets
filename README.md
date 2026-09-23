@@ -56,9 +56,9 @@ Source codes, vulnerabilities, and more.
 
 * [JiuZhou](https://github.com/xf97/JiuZhou) ⭐ 231 | 🐛 1 | 🌐 Solidity | 📅 2020-11-11 - JiuZhou is a data set of Ethereum bug smart contracts.
 
-* [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 203 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
+* [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 204 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
 
-* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 162 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
+* [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 163 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
 * [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 84 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

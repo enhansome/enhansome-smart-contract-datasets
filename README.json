@@ -116,7 +116,7 @@
             "open_issues": 11,
             "owner": "Messi-Q",
             "repo": "Smart-Contract-Dataset",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "dataset",
               "ethereum",
@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "benchmark",
               "blockchain",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:43:48.418Z",
+    "last_updated": "2026-09-23T06:35:21.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
