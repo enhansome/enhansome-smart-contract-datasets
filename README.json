@@ -15,7 +15,7 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T03:04:38Z",
+            "last_commit": "2026-09-25T03:01:43Z",
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
@@ -67,7 +67,7 @@
             "open_issues": 2,
             "owner": "tintinweb",
             "repo": "smart-contract-vulndb",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "smart-contract-security",
               "vulnerabilities"
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:40:51.932Z",
+    "last_updated": "2026-09-25T06:32:45.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
