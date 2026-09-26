@@ -42,13 +42,13 @@ Source codes, vulnerabilities, and more.
 
 * [smart-contract-fiesta](https://huggingface.co/datasets/Zellic/smart-contract-fiesta) - Zellic is making publicly available a dataset of known Ethereum mainnet smart contract source code.
 
-* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
+* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
 
 * [DISL](https://huggingface.co/datasets/ASSERT-KTH/DISL) - 514506 unique Solidity files that have been deployed to Ethereum mainnet.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,797 | 🐛 2 | 🌐 Solidity | 📅 2026-09-25 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,798 | 🐛 2 | 🌐 Solidity | 📅 2026-09-26 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,823 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -62,7 +62,7 @@ Source codes, vulnerabilities, and more.
 
 * [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 84 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
-* [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) ⭐ 79 | 🐛 4 | 🌐 Python | 📅 2022-06-16 - Repository of benchmarks to evaluate Solidity Smart contract analysis tools.
+* [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2022-06-16 - Repository of benchmarks to evaluate Solidity Smart contract analysis tools.
 
 * [VeriSmart-benchmarks](https://github.com/kupl/VeriSmart-benchmarks) ⭐ 68 | 🐛 1 | 🌐 Solidity | 📅 2022-08-17 - VeriSmart is a safety analyzer for Ethereum smart contracts written in Solidity. This repository contains dataset that we used for experiments in our paper.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
