@@ -15,11 +15,11 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T03:03:38Z",
+            "last_commit": "2026-09-27T03:01:27Z",
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6798,
+            "stars": 6799,
             "topics": [
               "defi",
               "ethereum",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:34:33.954Z",
+    "last_updated": "2026-09-27T07:02:13.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
