@@ -48,13 +48,13 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,803 | 🐛 5 | 🌐 Solidity | 📅 2026-10-02 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,803 | 🐛 4 | 🌐 Solidity | 📅 2026-10-03 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,822 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
 * [smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb) ⭐ 244 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-21 - An open dataset of publicly available smart contract issues aggregated from various audit reports.
 
-* [JiuZhou](https://github.com/xf97/JiuZhou) ⭐ 231 | 🐛 1 | 🌐 Solidity | 📅 2020-11-11 - JiuZhou is a data set of Ethereum bug smart contracts.
+* [JiuZhou](https://github.com/xf97/JiuZhou) ⭐ 230 | 🐛 1 | 🌐 Solidity | 📅 2020-11-11 - JiuZhou is a data set of Ethereum bug smart contracts.
 
 * [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 204 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
 
@@ -108,8 +108,8 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/acorn421/awesome-smart-contract-datasets/graphs/contributors) ⭐ 72 | 🐛 1 | 📅 2026-08-02!
+[Thanks goes to these contributors](https://github.com/acorn421/awesome-smart-contract-datasets/graphs/contributors)!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
