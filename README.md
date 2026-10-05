@@ -42,13 +42,13 @@ Source codes, vulnerabilities, and more.
 
 * [smart-contract-fiesta](https://huggingface.co/datasets/Zellic/smart-contract-fiesta) - Zellic is making publicly available a dataset of known Ethereum mainnet smart contract source code.
 
-* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
+* [smartbugs-wild](https://github.com/smartbugs/smartbugs-wild) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2020-06-03 - This repository contains 47,398 smart contracts extracted from the Ethereum network.
 
 * [DISL](https://huggingface.co/datasets/ASSERT-KTH/DISL) - 514506 unique Solidity files that have been deployed to Ethereum mainnet.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,803 | 🐛 3 | 🌐 Solidity | 📅 2026-10-04 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,805 | 🐛 3 | 🌐 Solidity | 📅 2026-10-05 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,822 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -60,7 +60,7 @@ Source codes, vulnerabilities, and more.
 
 * [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 164 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
-* [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 84 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
+* [DAppSCAN](https://github.com/InPlusLab/DAppSCAN) ⭐ 83 | 🐛 2 | 🌐 Solidity | 📅 2025-03-25 - Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.
 
 * [SolidiFI-benchmark](https://github.com/DependableSystemsLab/SolidiFI-benchmark) ⭐ 80 | 🐛 4 | 🌐 Python | 📅 2022-06-16 - Repository of benchmarks to evaluate Solidity Smart contract analysis tools.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
