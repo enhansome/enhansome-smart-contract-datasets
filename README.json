@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6816,
+            "stars": 6820,
             "topics": [
               "defi",
               "ethereum",
@@ -116,7 +116,7 @@
             "open_issues": 11,
             "owner": "Messi-Q",
             "repo": "Smart-Contract-Dataset",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "dataset",
               "ethereum",
@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "benchmark",
               "blockchain",
@@ -190,7 +190,7 @@
             "open_issues": 4,
             "owner": "DependableSystemsLab",
             "repo": "SolidiFI-benchmark",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "benchmarks",
               "contracts",
@@ -218,7 +218,7 @@
             "open_issues": 1,
             "owner": "kupl",
             "repo": "VeriSmart-benchmarks",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
@@ -267,6 +267,27 @@
         },
         {
           "node_type": "item",
+          "title": "Smart-Contract-Benchmark-Suites",
+          "description": "Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A unified smart contract standard data set.",
+            "homepage": null,
+            "id": 287517600,
+            "language": "Solidity",
+            "license": null,
+            "last_commit": "2021-08-23T08:16:25Z",
+            "open_issues": 1,
+            "owner": "renardbebe",
+            "repo": "Smart-Contract-Benchmark-Suites",
+            "stars": 47,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
+        },
+        {
+          "node_type": "item",
           "title": "HuangGai",
           "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.",
           "children": [],
@@ -287,27 +308,6 @@
               "ethereum",
               "solidity-language"
             ]
-          },
-          "first_seen": "2026-08-28T13:19:54.210Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Smart-Contract-Benchmark-Suites",
-          "description": "Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A unified smart contract standard data set.",
-            "homepage": null,
-            "id": 287517600,
-            "language": "Solidity",
-            "license": null,
-            "last_commit": "2021-08-23T08:16:25Z",
-            "open_issues": 1,
-            "owner": "renardbebe",
-            "repo": "Smart-Contract-Benchmark-Suites",
-            "stars": 46,
-            "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:17:41.782Z",
+    "last_updated": "2026-10-17T06:04:09.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
