@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6830,
+            "stars": 6828,
             "topics": [
               "defi",
               "ethereum",
@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1826,
+            "stars": 1825,
             "topics": []
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:41:25.109Z",
+    "last_updated": "2026-10-31T07:27:14.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
