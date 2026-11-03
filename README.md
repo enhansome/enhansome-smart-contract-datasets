@@ -48,7 +48,7 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,833 | 🐛 3 | 🌐 Solidity | 📅 2026-10-30 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,834 | 🐛 3 | 🌐 Solidity | 📅 2026-10-30 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
 * [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,826 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
@@ -70,9 +70,9 @@ Source codes, vulnerabilities, and more.
 
 * [ReentrancyStudy-Data](https://github.com/InPlusLab/ReentrancyStudy-Data) ⭐ 50 | 🐛 0 | 🌐 Solidity | 📅 2025-01-14 - ReentrancyStudy-Data is a large-scale dataset of reentrancy vulnerability in smart contracts, which is built from 230,548 open-source smart contracts from Etherscan.
 
-* [Smart-Contract-Benchmark-Suites](https://github.com/renardbebe/Smart-Contract-Benchmark-Suites) ⭐ 47 | 🐛 1 | 🌐 Solidity | 📅 2021-08-23 - Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?
+* [HuangGai](https://github.com/xf97/HuangGai) ⭐ 47 | 🐛 0 | 🌐 Solidity | 📅 2021-12-15 - HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.
 
-* [HuangGai](https://github.com/xf97/HuangGai) ⭐ 46 | 🐛 0 | 🌐 Solidity | 📅 2021-12-15 - HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.
+* [Smart-Contract-Benchmark-Suites](https://github.com/renardbebe/Smart-Contract-Benchmark-Suites) ⭐ 47 | 🐛 1 | 🌐 Solidity | 📅 2021-08-23 - Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?
 
 * [SmartScan-Dataset](https://github.com/NoamaSamreen93/SmartScan-Dataset) ⭐ 20 | 🐛 0 | 🌐 Solidity | 📅 2022-03-01 - This repositoray presents datasets and empirical analysis results that use code clone detection techniques for identifying vulnerabilities and their variations in smart contracts.
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

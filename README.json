@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6833,
+            "stars": 6834,
             "topics": [
               "defi",
               "ethereum",
@@ -267,6 +267,31 @@
         },
         {
           "node_type": "item",
+          "title": "HuangGai",
+          "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract. DOI: 10.5281/zenodo.4680168",
+            "homepage": null,
+            "id": 293466625,
+            "language": "Solidity",
+            "license": "MIT",
+            "last_commit": "2021-12-15T12:27:25Z",
+            "open_issues": 0,
+            "owner": "xf97",
+            "repo": "HuangGai",
+            "stars": 47,
+            "topics": [
+              "bug-injection",
+              "ethereum",
+              "solidity-language"
+            ]
+          },
+          "first_seen": "2026-08-28T13:19:54.210Z"
+        },
+        {
+          "node_type": "item",
           "title": "Smart-Contract-Benchmark-Suites",
           "description": "Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?",
           "children": [],
@@ -283,31 +308,6 @@
             "repo": "Smart-Contract-Benchmark-Suites",
             "stars": 47,
             "topics": []
-          },
-          "first_seen": "2026-08-28T13:19:54.210Z"
-        },
-        {
-          "node_type": "item",
-          "title": "HuangGai",
-          "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract. DOI: 10.5281/zenodo.4680168",
-            "homepage": null,
-            "id": 293466625,
-            "language": "Solidity",
-            "license": "MIT",
-            "last_commit": "2021-12-15T12:27:25Z",
-            "open_issues": 0,
-            "owner": "xf97",
-            "repo": "HuangGai",
-            "stars": 46,
-            "topics": [
-              "bug-injection",
-              "ethereum",
-              "solidity-language"
-            ]
           },
           "first_seen": "2026-08-28T13:19:54.210Z"
         },
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:11:04.811Z",
+    "last_updated": "2026-11-03T08:30:10.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
@@ -391,7 +391,7 @@
       "open_issues": 1,
       "owner": "acorn421",
       "repo": "awesome-smart-contract-datasets",
-      "stars": 71,
+      "stars": 72,
       "topics": [
         "awesome",
         "awesome-list",
