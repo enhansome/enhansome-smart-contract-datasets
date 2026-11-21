@@ -48,15 +48,15 @@ Source codes, vulnerabilities, and more.
 
 ## With Vulnerabilities or Bugs
 
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,849 | 🐛 5 | 🌐 Solidity | 📅 2026-11-20 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,849 | 🐛 5 | 🌐 Solidity | 📅 2026-11-21 - Reproduce DeFi hack incidents using Foundry. Real world DeFi exploit POCs and vulnerable codes (Inside the POC as a comment).
 
-* [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,825 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
+* [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) ⭐ 1,826 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - This project aims to provide a valuable resource for Web3 developers and security analysts by facilitating their understanding of exploitable bugs in smart contracts.
 
 * [smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb) ⭐ 244 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-21 - An open dataset of publicly available smart contract issues aggregated from various audit reports.
 
 * [JiuZhou](https://github.com/xf97/JiuZhou) ⭐ 230 | 🐛 1 | 🌐 Solidity | 📅 2020-11-11 - JiuZhou is a data set of Ethereum bug smart contracts.
 
-* [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 205 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
+* [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 206 | 🐛 11 | 📅 2023-08-21 - Datasets for evaluating smart contract security analysis tools.
 
 * [smartbugs-curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 166 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts.
 
@@ -70,7 +70,7 @@ Source codes, vulnerabilities, and more.
 
 * [ReentrancyStudy-Data](https://github.com/InPlusLab/ReentrancyStudy-Data) ⭐ 50 | 🐛 0 | 🌐 Solidity | 📅 2025-01-14 - ReentrancyStudy-Data is a large-scale dataset of reentrancy vulnerability in smart contracts, which is built from 230,548 open-source smart contracts from Etherscan.
 
-* [HuangGai](https://github.com/xf97/HuangGai) ⭐ 48 | 🐛 0 | 🌐 Solidity | 📅 2021-12-15 - HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.
+* [HuangGai](https://github.com/xf97/HuangGai) ⭐ 47 | 🐛 0 | 🌐 Solidity | 📅 2021-12-15 - HuangGai is an Ethereum smart contract bug injection framework, it can inject 20 types of bugs into Solidity smart contract.
 
 * [Smart-Contract-Benchmark-Suites](https://github.com/renardbebe/Smart-Contract-Benchmark-Suites) ⭐ 47 | 🐛 1 | 🌐 Solidity | 📅 2021-08-23 - Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?
 
@@ -112,4 +112,4 @@ Who else should we be following!?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
