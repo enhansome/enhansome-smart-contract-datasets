@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6851,
+            "stars": 6852,
             "topics": [
               "defi",
               "ethereum",
@@ -184,9 +184,9 @@
             "description": "Repository of benchmarks to evaluate Solidity Smart contract analysis tools",
             "homepage": "http://blogs.ubc.ca/karthik/2020/05/22/how-effective-are-smart-contract-static-analysis-tools-evaluating-smart-contract-static-analysis-tools-using-bug-injection/",
             "id": 264318102,
-            "language": "Python",
+            "language": "Solidity",
             "license": "NOASSERTION",
-            "last_commit": "2022-06-16T08:16:21Z",
+            "last_commit": "2026-11-24T02:04:33Z",
             "open_issues": 4,
             "owner": "DependableSystemsLab",
             "repo": "SolidiFI-benchmark",
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:41:38.556Z",
+    "last_updated": "2026-11-24T11:33:29.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome smart contract datasets",
